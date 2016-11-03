@@ -1,0 +1,2 @@
+This is not a recipe.
+This is just for practice with committing and pushing files in Git.
